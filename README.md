@@ -17,6 +17,6 @@ It can be seen that as the training data size increases, SVM performs better tha
 
 kNN is quite a good classifier but its performance depends on the value of k. It gives poor results for lower values of k and best results as the value of k increases.
 
-PCA is more sensitive to SVM than kNN .As the value of Principle Component (PC) is increased, SVM gives better results and accuracy score is more than kNN.
+As the value of Principle Component (PC) is increased, SVM gives better results and accuracy score is more in kNN.
 
-When the value of PC=1 and K=9, we get the highest accuracy score (97.95).
+When the value of PC=1 and K=21, we get the highest accuracy score (98.37).
